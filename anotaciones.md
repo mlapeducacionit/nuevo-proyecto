@@ -155,7 +155,7 @@ npm run server
 
 (Ctrl) + C
 
-## Subir el proyecto a Netlify
+## Subir el proyecto a Netlify en forma manual
 
 1. Detengo el servidor de desarrollo
 
@@ -177,3 +177,31 @@ npm run preview
 
 Arrastro y suelto la carpeta en netlify
 
+## Subir el proyecto a través git a Netlify
+
+1. Creo un repositorio
+
+```sh
+git init
+```
+
+2. Agrego todo a un commit
+
+```sh
+git add .
+git commit -m "Proyecto completo, listo para subir"
+```
+
+3. Creo el repositorio en GitHub
+
+4. Agrego la url del repositorio remoto al local
+
+```sh
+git remote add origin git@github.com:mlapeducacionit/nuevo-proyecto.git
+```
+
+5. Subo el repositorio local al remoto
+
+```sh
+git push -u origin main
+```
