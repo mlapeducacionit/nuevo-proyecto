@@ -1,0 +1,86 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Heladera",
+      "categoria": "Electro",
+      "precio": 234.3
+    },
+    {
+      "id": 2,
+      "nombre": "Celular",
+      "categoria": "Electro",
+      "precio": 553.3
+    },
+    {
+      "id": 3,
+      "nombre": "Tablet",
+      "categoria": "Electro",
+      "precio": 123.3
+    },
+    {
+      "id": 4,
+      "nombre": "Notebook",
+      "categoria": "Electro",
+      "precio": 987.3
+    },
+    {
+      "id": 5,
+      "nombre": "Reloj",
+      "categoria": "Electro",
+      "precio": 785.3
+    },
+    {
+      "id": 6,
+      "nombre": "Perfume Dior",
+      "categoria": "Perfumeria",
+      "precio": 852.3
+    },
+    {
+      "id": 7,
+      "nombre": "Mouse",
+      "categoria": "Electro",
+      "precio": 547.3
+    },
+    {
+      "nombre": "GoPro Hero 11",
+      "categoria": "Computación",
+      "precio": 3333.3,
+      "id": 8
+    },
+    {
+      "nombre": "GoPro Hero 12",
+      "categoria": "Computación",
+      "precio": 4333.3,
+      "id": 9
+    },
+    {
+      "nombre": "GoPro Hero 12",
+      "categoria": "Computación",
+      "precio": 4333.3,
+      "id": 10
+    }
+  ],
+  "clientes": [
+    {
+      "nombre": "Maximiliano Luis",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Fulanito"
+    },
+    {
+      "nombre": "Menganito",
+      "id": 3
+    },
+    {
+      "nombre": "Sultanito",
+      "id": 5
+    },
+    {
+      "nombre": "Sultanito",
+      "id": 6
+    }
+  ]
+}
